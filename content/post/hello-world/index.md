@@ -1,19 +1,19 @@
 ---
 title: Hello World
-description: Welcome to Hugo Theme Stack
+description: Welcome to My Website
 slug: hello-world
-date: 2022-03-06 00:00:00+0000
+date: 2023-02-19 15:34:00+0800
 image: cover.jpg
 categories:
-    - Example Category
+    - test
 tags:
-    - Example Tag
+    - System Test
 ---
 
-Welcome to Hugo theme Stack. This is your first post. Edit or delete it, then start writing!
+这是我的博客中的第一篇文章，使用的是 Netlify 创建静态网站，并使用 Hugo 框架搭建，主题是 stack。
 
-For more information about this theme, check the documentation: https://docs.stack.jimmycai.com/
+有关这个主题的更多信息，可以查看官方文档: <https://docs.stack.jimmycai.com/>
 
-Want a site like this? Check out [hugo-theme-stack-stater](https://github.com/CaiJimmy/hugo-theme-stack-starter)
+Stack 主题建站模板： [hugo-theme-stack-stater](https://github.com/CaiJimmy/hugo-theme-stack-starter)
 
 > Photo by [Pawel Czerwinski](https://unsplash.com/@pawel_czerwinski) on [Unsplash](https://unsplash.com/)
